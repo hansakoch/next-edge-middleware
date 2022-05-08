@@ -11,15 +11,15 @@ export default function Home({ country }) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Next.js Geolocation in Edge Functions</title>
+        <title>Borderless Local Services - reservewith.me</title>
         <meta
           name="description"
-          content="A simple starter template demonstrating Geolocation in Edge Functions"
+          content="reservewith.me - Borderless Local Services"
         />
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Next.js Geolocation in Edge Functions</h1>
+        <h1 className={styles.title}>Borderless Local Services - reservewith.me </h1>
         <p className={styles.description}>
           {country && country !== 'undefined' ? (
             <>
