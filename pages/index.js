@@ -40,10 +40,7 @@ export default function Home({ country }) {
           )}
         </p>
       </main>
-<!-- CalendarHero inline embed script begin -->
-<div class="calendarhero-inline-widget" data-url="https://meeting.calendarhero.com/meeting/new/6273eabd2969d000115941a8/meeting" style="min-width:320px; height:630px;"></div>
-<script type="text/javascript" src="https://app.calendarhero.com/assets/widget.js"></script>
-<!-- CalendarHero inline embed script end -->
+
 
 
     </div>
